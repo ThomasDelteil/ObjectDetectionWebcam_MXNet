@@ -8,7 +8,7 @@ usage:
 pythonw detection.py
 ```
 
-Note, you need to install python as a framework, see this [page](https://matplotlib.org/faq/osx_framework.html)
+Note, on MacOS, you need to install python as a framework, see this [page](https://matplotlib.org/faq/osx_framework.html)
 
 for conda environments, simply run:
 ```bash
