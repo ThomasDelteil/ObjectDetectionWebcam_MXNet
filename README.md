@@ -2,6 +2,16 @@
 
 Simple script to run object detection from a webcam using opencv and matplotlib, using a [gluon-cv](https://gluon-cv.mxnet.io/model_zoo/detection.html) SSD pretrained model with a mobilenet backend.
 
+depends on:
+
+```
+cv2
+matplotlib
+mxnet
+gluoncv
+numpy
+```
+
 usage, on MacOS:
 
 ```bash
